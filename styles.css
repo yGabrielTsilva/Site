@@ -1,0 +1,70 @@
+body{
+  background-color:black
+}
+.intro{
+  color:white;
+  text-align: center;
+  font-size: 25px;
+margin-top: 180px;
+}
+.name{
+  color: red;
+text-align: center;
+font-size: 100px;
+margin-top: 15px;
+}
+.room{
+  color:red;
+  text-align: center;
+ 
+}
+
+.bottle{
+  color: white;
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+CSS
+.container {
+       height: 100%;
+       
+   }
+
+   div.op1 {
+       width: 38%;
+       display: inline-block;
+       color: aliceblue;
+       font-size: 30px;
+       text-align: center;
+       height: 70px;
+       text-decoration: underline;
+margin-top: 120px;
+margin-left: 75px;
+   }
+
+   div.op2 {
+        width: 40%;
+       display: inline-block;
+       color: aliceblue;
+       font-size: 30px;
+       text-align: center;
+       height: 38px;
+       background-color: rgb(219, 28, 28);
+        
+         }
+
+.container{
+  text-align: center;
+  margin-top: 80px;
+
+}
+
+.op3{
+  color: white;
+  font-size: 25px;
+
+}
